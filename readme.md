@@ -116,6 +116,7 @@
 ### JavaScript
 
 - [use-whisper](https://github.com/chengsokdara/use-whisper) - React hook.
+- [browser-whisper](https://github.com/tanpreetjolly/browser-whisper) - Transcribe audio and video files locally in the browser using WebGPU, with a WebAssembly fallback.
 
 ## Articles
 
